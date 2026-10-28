@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield Container -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,22 L76,30 C76,54 67,69 54,78 C41,69 32,54 32,30 Z"
+        android:strokeWidth="2.5"
+        android:strokeColor="#FFD166" />
+
+    <!-- Atom Orbit 1 -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,38 C64,38 70,50 67,60 C64,66 58,68 54,68 C44,68 38,56 41,46 C44,40 50,38 54,38 Z"
+        android:strokeWidth="1.8"
+        android:strokeColor="#4CC9F0" />
+
+    <!-- Atom Orbit 2 (diagonal) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M43,41 C51,35 63,41 67,52 C70,61 63,69 55,67 C47,65 41,53 43,41 Z"
+        android:strokeWidth="1.8"
+        android:strokeColor="#4895EF" />
+
+    <!-- Center Nucleus / Focus Core (Glowing Gold) -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M54,50 A4,4 0 1,0 54,58 A4,4 0 1,0 54,50" />
+
+    <!-- Top Focus Star / Sparkle of Excellence -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M54,14 L56,19 L61,20 L57,23 L58,28 L54,25 L50,28 L51,23 L47,20 L52,19 Z" />
+
+    <!-- Bottom Ribbon Badge "JEE" -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M42,81 L66,81 L64,88 L54,86 L44,88 Z"
+        android:strokeWidth="1"
+        android:strokeColor="#FFD166" />
+</vector>

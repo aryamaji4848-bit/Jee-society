@@ -1,0 +1,6 @@
+{
+  "name": "JEE Focus",
+  "description": "Distraction & social media blocker with study-only YouTube and JEE countdown to boost your prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
